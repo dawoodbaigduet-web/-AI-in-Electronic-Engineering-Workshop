@@ -15,9 +15,5 @@
 
 ### 🤖 Relevance to My Work
 Applying these concepts to Robo War Robot - using sensor fusion + AI for smarter decisions.
-
-### 📸 Session Glimpse
-![Workshop](workshop.jpg)
-
 ---
 Batch 25 | Electronic Engineering | DUET
